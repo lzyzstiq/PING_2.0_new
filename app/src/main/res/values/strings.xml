@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">PING2.0的睡眠守护程序</string>
-    <string name="settings">设置</string>
-    <string name="start_time">开始时间</string>
-    <string name="interval">提醒间隔（分钟）</string>
-    <string name="quote_path">语料库路径</string>
-    <string name="save">保存</string>
-</resources>
